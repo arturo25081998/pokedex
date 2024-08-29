@@ -1,4 +1,4 @@
-# Github User list
+# POKEDEX
 
 Aplicacion en react que te permite tener un pokedex desde una api de pokemons, los datos son mostrados en tarjetas de pokemones.
 
